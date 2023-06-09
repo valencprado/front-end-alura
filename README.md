@@ -5,18 +5,18 @@ Cursos de Front-End do bootcamp "Oracle Next Education".
 
 ***HTML e CSS***
 
-- [] Flexbox
-- [] Layouts Responsivos
-- [] Arquitetura CSS
+- [ ] Flexbox
+- [ ] Layouts Responsivos
+- [ ] Arquitetura CSS
 
 ***JavaScript***
 
-- [] Explorando a linguagem
-- [] Manipulação da DOM
-- [] Métodos de array
-- [] Consumo de API
+- [ ] Explorando a linguagem
+- [ ] Manipulação da DOM
+- [ ] Métodos de array
+- [ ] Consumo de API
 
 ***Requisições e Formulários***
 
-- [] Criando requisições
-- [] Validação de formulários
+- [ ] Criando requisições
+- [ ] Validação de formulários
