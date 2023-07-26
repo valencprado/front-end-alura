@@ -6,7 +6,7 @@ Cursos de Front-End do bootcamp "Oracle Next Education".
 ***HTML e CSS***
 
 - [x] Flexbox
-- [ ] Layouts Responsivos
+- [x] Layouts Responsivos
 - [ ] Arquitetura CSS
 
 ***JavaScript***
